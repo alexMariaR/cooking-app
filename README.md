@@ -1,4 +1,7 @@
 # my-cooking-app
+![my-cookin-app](https://github.com/user-attachments/assets/c62712af-4f07-4812-9d97-e52b07b2d0d9)
+
+
 
 This template should help get you started developing with Vue 3 in Vite.
 
